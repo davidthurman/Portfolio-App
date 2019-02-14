@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="full_name">David Thurman</string>
+    <string name="job_title">Lead Android Developer</string>
+    <string name="company">at Brightwell</string>
+    <string name="summary">I am a software developer that primarily works in Android and iOS development. I have also worked on a wide range of technologies and languages.</string>
+
+    <string name="home">Home</string>
+    <string name="interests">Interests</string>
+
+</resources>
